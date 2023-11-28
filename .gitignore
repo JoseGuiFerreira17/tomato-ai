@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff:
+db.sqlite3
+
+# Environments
+.env
+.db.env
+.env_prod
+sendgrid.env
+
+# Static files
+staticfiles
+staticfiles/
+static
+static/
+media
+media/
+
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+venv/
+.vscode/sendgrid.env
+.vscode
