@@ -5,6 +5,9 @@ __pycache__/
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Model files
+*.h5
+
 # Django stuff:
 db.sqlite3
 
